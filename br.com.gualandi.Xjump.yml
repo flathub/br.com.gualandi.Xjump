@@ -12,5 +12,5 @@ modules:
     buildsystem: autotools
     sources:
       - type: archive
-        url: https://github.com/hugomg/xjump-sdl/archive/refs/tags/v3.0.2.tar.gz
-        sha256: 5943c34b04266bbe135f2b1c299603267003d1dcde16d0d94a383218e816d9db
+        url: https://github.com/hugomg/xjump-sdl/archive/refs/tags/v3.0.3.tar.gz
+        sha256: 7cb3d90033396143fb20bc757d1b218af6ba46c8b51329d7b8b66095985dae04
