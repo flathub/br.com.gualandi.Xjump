@@ -1,6 +1,6 @@
 app-id: br.com.gualandi.Xjump
 runtime: org.freedesktop.Platform
-runtime-version: '21.08'
+runtime-version: '22.08'
 sdk: org.freedesktop.Sdk
 command: xjump
 finish-args:
