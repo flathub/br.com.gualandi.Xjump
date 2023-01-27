@@ -1,0 +1,5 @@
+See https://docs.flatpak.org/en/latest/first-build.html
+
+flatpak-builder build-dir br.com.gualandi.Xjump
+flatpak-builder --user --install --force-clean build-dir br.com.gualandi.Xjump
+flatpak run br.com.gualandi.Xjump

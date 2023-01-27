@@ -1,6 +1,6 @@
 app-id: br.com.gualandi.Xjump
 runtime: org.freedesktop.Platform
-runtime-version: '21.08'
+runtime-version: '22.08'
 sdk: org.freedesktop.Sdk
 command: xjump
 finish-args:
@@ -12,5 +12,5 @@ modules:
     buildsystem: autotools
     sources:
       - type: archive
-        url: https://github.com/hugomg/xjump-sdl/archive/refs/tags/v3.0.2.tar.gz
-        sha256: 5943c34b04266bbe135f2b1c299603267003d1dcde16d0d94a383218e816d9db
+        url: https://github.com/hugomg/xjump-sdl/archive/refs/tags/v3.0.4.tar.gz
+        sha256: 68e3ddbf32f764e0cf804de3a506141359d81c6a48681febd216c28784a09e11
