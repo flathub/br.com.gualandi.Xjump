@@ -14,4 +14,4 @@ modules:
     sources:
       - type: archive
         url: https://github.com/hugomg/xjump-sdl/archive/refs/tags/v3.0.5.tar.gz
-        sha256: 1c3477bba241010bde19bc4962ebd69cc640810f1aa4863a8961e180aeb92164
+        sha256: f178e14169959e1608a7b314e43135be0a88cacb79e0455b6bd934d1965e2ee6
